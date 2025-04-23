@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. candidate in cryptography at [Tsinghua University](https://www.tsinghua.edu.cn/). I received my master's degree in cybersecurity from the University of Chinese Academy of Science and the [Institute of Information Engineering](https://www.iie.ac.cn/), Chinese Academy of Science, in 2022. Before that, I received my bachelor's degree in mathematics from [Nanchang University](https://smcs.ncu.edu.cn/) in 2019.
+I'm a Ph.D. candidate in cryptography at [Tsinghua University](https://www.tsinghua.edu.cn/) with the supversion of Prof. Xingjun Wang and the researcer fellow Ning Hu from Pengcheng Lab. Before the Ph.D phase, I received my master's degree in cybersecurity from the [University of Chinese Academy of Science](https://www.ucas.ac.cn/) and the [Institute of Information Engineering](https://www.iie.ac.cn/), Chinese Academy of Science in 2022 under the supervision of the associate research fellow [Jianghua Zhong](https://people.ucas.ac.cn/~jianghua) and the research fellow [Dongdai Lin](https://people.ucas.ac.cn/~ddlin?language=en). Before that, I received my bachelor's degree in mathematics from [Nanchang University](https://smcs.ncu.edu.cn/) in 2019.
 
 
 
@@ -18,10 +18,7 @@ I focus on theoretical cryptography, applied cryptography, and network security.
 
 News
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+2025.04, I set up my personal page.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 
