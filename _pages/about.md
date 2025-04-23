@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. candidate in cryptography at Tsinghua University. I received my master's degree in cybersecurity from the University of Chinese Academy of Science and the Institute of Information Engineering, Chinese Academy of Science, in 2022. Before that, I received my bachelor's degree in mathematics from Nanchang University in 2019.
+I'm a Ph.D. candidate in cryptography at [Tsinghua University](https://www.tsinghua.edu.cn/). I received my master's degree in cybersecurity from the University of Chinese Academy of Science and the [Institute of Information Engineering](https://www.iie.ac.cn/), Chinese Academy of Science, in 2022. Before that, I received my bachelor's degree in mathematics from [Nanchang University](https://smcs.ncu.edu.cn/) in 2019.
 
 
 
