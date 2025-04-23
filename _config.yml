@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenhui Kong / Personal Home"
+title                    : "Personal Home"
 title_separator          : "-"
 name                     : &name "Wenhui Kong"
 description              : &description "personal description"
