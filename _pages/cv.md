@@ -19,18 +19,13 @@ Work experience
 ======
 * 2025.06-205.10: Cryptographic Intern
   * Huawei Technologies
-  * Duties includes: Research the latest cryptography technologies.
-  * Supervisor: The Users
+  * Duties include: Researching the latest cryptography technologies.
+  * Supervisor: Tieyan Li
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.09-2026.03: Jointly trained doctoral student
+  * Pengcheng Laboratory
+  * Duties included: Identity authentication protocol between network nodes
+  * Supervisor: Ning Hu
   
 Skills
 ======
