@@ -27,7 +27,7 @@ Work experience
   * Duties included: Identity authentication protocol between network nodes
   * Supervisor: Ning Hu
   
-Skills
+%Skills
 ======
 * Skill 1
 * Skill 2
