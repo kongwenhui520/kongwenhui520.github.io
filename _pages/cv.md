@@ -27,12 +27,12 @@ Work experience
   * Duties included: Identity authentication protocol between network nodes
   * Supervisor: Ning Hu
   
-/Skills
-/======
+Skills
+======
 * Mathematics
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * abstract algebra
+  * topology
+  * number theory
 * Python 3
 * C++
 
