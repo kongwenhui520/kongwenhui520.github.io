@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Information and Communication Engineering, Tsinghua University, 2022.09-2026.06(expected)
+* M.S. Cyber Security, University of Chinese Academy of Sciences, 2019.09-2022.06
+* B.S. Mathematics and Applied Mathematics, Nanchang University, 2015.09-2019.06
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
+* 2025.06-205.10: Cryptographic Intern
+  * Huawei Technologies
+  * Duties includes: Research the latest cryptography technologies.
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
