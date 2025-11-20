@@ -18,7 +18,10 @@ I focus on theoretical cryptography, applied cryptography, and network security.
 
 News
 ------
+2025.10. A paper was accepted at Trustcom 2025.
+
 2025.04, I set up my personal page.
+
 
 
 
