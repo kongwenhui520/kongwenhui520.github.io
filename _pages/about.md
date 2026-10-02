@@ -18,7 +18,7 @@ I focus on theoretical cryptography, applied cryptography, and network security.
 
 News
 ------
-2026.09. A paper was accepted at IEEE Internet of Things Journal (SCI-JCR-Q1). 
+2026.09. A paper was accepted at IEEE Internet of Things Journal (SCI:JCR-Q1). 
 
 2026.02. A paper was accepted at IEEE CSCWD 2026 (CCF-C).
 
