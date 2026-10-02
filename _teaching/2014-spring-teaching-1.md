@@ -4,7 +4,7 @@ collection: Cryptography and Network Security
 type: "Graduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Tsinghua University, Shenzhen International Graduate School"
-date: 2025-03-01
+date: 2025-03-01 to 2025-06-30
 location: "Shenzhen, China"
 ---
 
